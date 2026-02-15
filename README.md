@@ -1,28 +1,30 @@
-# Resume Templates
+# Music Player
 
-A collection of clean, professional, and ATS-friendly resume templates for students, freshers, and professionals.
+A simple web-based music player that allows users to play and control audio tracks.
 
 ## Features
-- Simple and modern design
-- ATS-friendly layout
-- Easy to customize
-- Suitable for job applications
+- Play and pause music
+- Next and previous controls
+- Clean user interface
+- Responsive design
 
 ## Technologies Used
 - HTML
 - CSS
-- Java Script
+- JavaScript
+- Python
+
 ## How to Use
 1. Clone the repository
-2. Open `index.html` in any browser
-3. Edit details as needed
-4. Customize styles if required
+2. Open `index.html` in a browser
+3. Add audio files
+4. Play music 🎶
 
 ## Purpose
-Created to help users build professional resumes easily.
+Built to practice JavaScript and audio functionality.
 
 ## Author
 Govind Yadamalli
 
 ## License
-Open-source project for learning and personal use.
+Open-source project for educational use.
